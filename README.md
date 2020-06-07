@@ -6,3 +6,5 @@ chmod +x crunch.sh (this command make the script executable)
 
 usage:
 ./crunch.sh (this will execute the shell script)
+
+follow me on instagram: R3ns_0k33
